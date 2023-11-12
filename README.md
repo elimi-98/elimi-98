@@ -12,7 +12,7 @@ Hi there! 👋 I'm Elisia, a passionate Full Stack Developer who enjoys continuo
 ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
 ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 ![Jira](https://img.icons8.com/color/48/000000/jira.png)
-![Bootstrap](https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg) 
+![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) 
 ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) 
 ![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg) 
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) 
