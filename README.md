@@ -4,7 +4,7 @@
 Hi there! 👋 I'm Elisia, a passionate Full Stack Developer who enjoys continuous learning and turning ideas into reality through code.
 
 ## Languages and Tools
- 
+
 ![Laravel](https://img.icons8.com/ios/50/000000/laravel.png) 
 ![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png) 
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
@@ -12,13 +12,13 @@ Hi there! 👋 I'm Elisia, a passionate Full Stack Developer who enjoys continuo
 ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
 ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 ![Jira](https://img.icons8.com/color/48/000000/jira.png)
-![Bootstrap](https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg =24x24) 
-![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg =24x24) 
-![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg =24x24) 
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg =24x24) 
-![XAMPP](https://profilinator.rishav.dev/skills-assets/xampp.png =24x24) 
-![PHPMyAdmin](https://cdn.worldvectorlogo.com/logos/phpmyadmin.svg =24x24) 
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg =24x24)
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="24" height="24" alt="Bootstrap"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="24" height="24" alt="Tailwind CSS"/>
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="24" height="24" alt="PHP"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="24" height="24" alt="Java"/>
+<img src="https://profilinator.rishav.dev/skills-assets/xampp.png" width="24" height="24" alt="XAMPP"/>
+<img src="https://cdn.worldvectorlogo.com/logos/phpmyadmin.svg" width="24" height="24" alt="PHPMyAdmin"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="24" height="24" alt="Git"/>
 
 ## Let's Connect!
 
