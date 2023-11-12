@@ -20,7 +20,9 @@ Hi there! 👋 I'm Elisia, a passionate Full Stack Developer who enjoys continuo
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-   <a href="https://www.phpmyadmin.net/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/phpmyadmin/#6C78AF" alt="phpMyAdmin" height="50" /></a>
+  <a href="https://www.phpmyadmin.net/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/phpmyadmin.svg" alt="phpMyAdmin" height="50" />
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
@@ -35,7 +37,7 @@ Hi there! 👋 I'm Elisia, a passionate Full Stack Developer who enjoys continuo
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -58,7 +60,7 @@ Hi there! 👋 I'm Elisia, a passionate Full Stack Developer who enjoys continuo
     <img src="https://img.icons8.com/color/48/000000/jira.png" alt="jira" width="40" height="40"/>
   </a>
 </p>
- 
+
 
 ## Let's Connect!
 
