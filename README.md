@@ -18,7 +18,7 @@ Hi there! 👋 I'm Elisia, a passionate Full Stack Developer who enjoys continuo
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) 
 ![XAMPP](https://profilinator.rishav.dev/skills-assets/xampp.png) 
 ![PHPMyAdmin](https://cdn.worldvectorlogo.com/logos/phpmyadmin.svg) 
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) 
 
 ## Let's Connect!
 
