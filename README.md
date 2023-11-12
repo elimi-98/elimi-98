@@ -12,13 +12,13 @@ Hi there! 👋 I'm Elisia, a passionate Full Stack Developer who enjoys continuo
 ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
 ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 ![Jira](https://img.icons8.com/color/48/000000/jira.png)
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) 
-![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) 
-![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg) 
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) 
-![XAMPP](https://profilinator.rishav.dev/skills-assets/xampp.png) 
-![PHPMyAdmin](https://cdn.worldvectorlogo.com/logos/phpmyadmin.svg) 
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) 
+![Bootstrap](https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg =24x24) 
+![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg =24x24) 
+![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg =24x24) 
+![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg =24x24) 
+![XAMPP](https://profilinator.rishav.dev/skills-assets/xampp.png =24x24) 
+![PHPMyAdmin](https://cdn.worldvectorlogo.com/logos/phpmyadmin.svg =24x24) 
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg =24x24)
 
 ## Let's Connect!
 
