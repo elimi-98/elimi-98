@@ -48,6 +48,10 @@ Hi there! 👋 I'm Elisia, a passionate Full Stack Developer who enjoys continuo
 
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 
+<a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/jira.png" alt="jira" width="40" height="40"/>
+  </a>
+
 
 ## Let's Connect!
 
